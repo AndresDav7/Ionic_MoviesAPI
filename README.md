@@ -14,5 +14,4 @@ Proyecto desarrollado en Ionic.
 
 
 ## Video en YouTube :clapper::
--  https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
-
+-  URL
