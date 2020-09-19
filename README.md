@@ -19,8 +19,14 @@ Proyecto desarrollado en Ionic.
 
 ## Referencias :link:: 
 
-[1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
+[1] 	RobotSolar, «Obtener detalles de usuario autenticado | Firebase, Ionic, Angular,» [En línea]. Available: https://www.youtube.com/watch?v=tN3yH07vgJo&list=LLZ1xXD5zP7Vn7NUtfa2gyOg&index=2&t=0s.
 
-[2] 	A. Pervaiz, «Firebase Social Media App - 29 Send Image in Chat,» [En línea]. Available: https://www.youtube.com/watch?v=ASDLYfD2QVs.
+[2] 	S. Grimm, «How to Build Your First Ionic 4 App with API Calls,» [En línea]. Available: https://www.youtube.com/watch?v=3QPbBJgNF94.
 
-[3] 	K. Dev, «Chat App with Firebase Andorid Tutorials,» [En línea]. Available: https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8.
+[3] 	Domini Code, «Google login Ionic 5 Firebase - Login Email y contraseña,» [En línea]. Available: https://www.youtube.com/watch?v=VuyoS5NpHVE.
+
+[4] 	Domini Code, «Ionic 4 & Firebase CRUD,» [En línea]. Available: https://www.youtube.com/watch?v=REgMMe2fYKA.
+
+[5] 	RobotSolar, «Ionic 4 en español : Permisos de login (guards), app de chat parte 2,» [En línea]. Available: https://www.youtube.com/watch?v=frm49cIPp_0.
+
+[6] 	RobotSolar, «Ionic 4 + Firebase : Registro de usuarios/ Guardar en FIRESTORE/ App chat parte 5,» [En línea]. Available: https://www.youtube.com/watch?v=ikMrTQvw8MQ.
