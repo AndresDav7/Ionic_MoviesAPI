@@ -12,3 +12,7 @@ Proyecto desarrollado en Ionic.
 ## Funcionalidad de Proyecto
 ### Descripcion del codigo lo mas relevante:
 
+
+## Video en YouTube :clapper::
+-  https://www.youtube.com/watch?v=MevrkOLo2zY&t=1s&app=desktop
+
