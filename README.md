@@ -14,4 +14,13 @@ Proyecto desarrollado en Ionic.
 
 
 ## Video en YouTube :clapper::
+
 -  URL
+
+## Referencias :link:: 
+
+[1] 	A. Pervaiz, «Firebase Social Media App - 17 Publish Posts,» [En línea]. Available: https://www.youtube.com/watch?v=vcjvWaJqztE.
+
+[2] 	A. Pervaiz, «Firebase Social Media App - 29 Send Image in Chat,» [En línea]. Available: https://www.youtube.com/watch?v=ASDLYfD2QVs.
+
+[3] 	K. Dev, «Chat App with Firebase Andorid Tutorials,» [En línea]. Available: https://www.youtube.com/playlist?list=PLzLFqCABnRQftQQETzoVMuteXzNiXmnj8.
