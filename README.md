@@ -17,7 +17,13 @@ la de OMDb API que nos proprcionará la informcación de las películas más rel
 
 ![16429015-2d22-4252-b64e-6e7822c1f4c1](https://user-images.githubusercontent.com/38590809/93700370-188f1200-fadc-11ea-9c87-c563fcb47633.jpg)
 
+-Ahora vamos a crear nuestro proyecto en Firebase la cual va a ser nuestro servidor de base de datos para el consumo de nuestra API.
 
+![firebase](https://user-images.githubusercontent.com/38590809/93704788-b0d9c680-fadd-11ea-8977-2c3ecc17a452.png)
+
+-Nos dirijimos a nuestro proyecto en ionic e ingresamos las credenciales para la conexión con la base de datos.
+
+![ae94bb41-df1a-479d-9676-3c7b1008880a](https://user-images.githubusercontent.com/38590809/93704901-d5ce3980-fadd-11ea-8247-31ec12180579.jpg)
 
 -En la siguiente imágen vemos el registro de la consulta de las películas que vamos obteniendo ya sea como usuario administrador
 o simplemente usuario, nos llega todo el registro de la PI con la cual estamos trabajando.
