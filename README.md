@@ -25,6 +25,38 @@ la de OMDb API que nos proprcionará la informcación de las películas más rel
 
 ![ae94bb41-df1a-479d-9676-3c7b1008880a](https://user-images.githubusercontent.com/38590809/93704901-d5ce3980-fadd-11ea-8247-31ec12180579.jpg)
 
+
+En la siguiente sección vamos a encontrar lo más relevante en nuestro código:
+
+-Conexión y llamado de la API  a nuestro proyecto de ionic con el apache cordova.
+
+
+![73c9c45a-6e07-4bf9-8f1e-728695622b1f](https://user-images.githubusercontent.com/38590809/93704979-fcd93b00-fade-11ea-81cd-87889c82d62f.jpg)
+
+
+-Campos para llenar el registro del usuario para que así la aplicación funcione.
+
+![a87ef5eb-36dc-4de6-bc61-0ba6e0dc6e60](https://user-images.githubusercontent.com/38590809/93704989-18dcdc80-fadf-11ea-9be7-8724e44ac9fb.jpg)
+
+
+-Requisitos para que el usuario logre entrar a la aplicación como su correo y contraseña.
+
+![d3743e48-0391-49da-88d5-66f5683548db](https://user-images.githubusercontent.com/38590809/93705023-622d2c00-fadf-11ea-91a8-c145ca61cf4e.jpg)
+
+
+-Despliegue de la información cuando el usuario va a realizar la consulta y colocamos los datos que va a recibir.
+
+![de2c0ce7-06c3-4ad3-86a7-b050f79a5a77](https://user-images.githubusercontent.com/38590809/93705042-8ab52600-fadf-11ea-8e97-d27b01ff6999.jpg)
+
+
+
+
+-Y por último la edición del archivo HTML donde se van a desplegar los tabs correspondientes a cada sección de nuesta APP.
+
+
+![cd9516be-a9fc-49f5-ac96-cffb6abe10d1](https://user-images.githubusercontent.com/38590809/93705004-3611ab00-fadf-11ea-8614-29a7a1bf7b4b.jpg)
+
+
 -Una vez que ya tenemos configura la parte de nuestro código desplegamos la aplicación y vemos los resultados del login y de las consultas de películas y la información que nos brinda la API
 
 ![interfaz1](https://user-images.githubusercontent.com/38590809/93704934-55f49f00-fade-11ea-9583-79113193fe63.png)
