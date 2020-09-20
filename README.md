@@ -12,6 +12,24 @@ Proyecto desarrollado en Ionic.
 ## Funcionalidad de Proyecto
 ### Descripcion del codigo lo mas relevante:
 
+-Vamos a empezar describiendo lo más relevante de nuestro proyecto desde el consumo de la AP, la cual el grupo d etrabajo selecciono 
+la de OMDb API que nos proprcionará la informcación de las películas más relevantes en su reistro.
+
+![16429015-2d22-4252-b64e-6e7822c1f4c1](https://user-images.githubusercontent.com/38590809/93700370-188f1200-fadc-11ea-9c87-c563fcb47633.jpg)
+
+
+
+-En la siguiente imágen vemos el registro de la consulta de las películas que vamos obteniendo ya sea como usuario administrador
+o simplemente usuario, nos llega todo el registro de la PI con la cual estamos trabajando.
+
+![c08d26b0-0446-4adc-a626-aa811c9cf34e](https://user-images.githubusercontent.com/38590809/93697126-1b3d3780-fadb-11ea-9176-ea92291cde94.jpg)
+
+
+-En la siguiente imágen vamos a mirar comom los registros del usuario administrador se registran en firebase de tal manera
+que se logra realizar el login.
+
+![0ba897b8-09f5-4b28-b54a-bdf3c64411cc](https://user-images.githubusercontent.com/38590809/93698891-a74f5f00-fadb-11ea-9a9f-dc6a64545f0d.jpg)
+
 
 ## Video en YouTube :clapper::
 
