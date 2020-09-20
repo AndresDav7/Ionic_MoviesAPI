@@ -25,6 +25,14 @@ la de OMDb API que nos proprcionará la informcación de las películas más rel
 
 ![ae94bb41-df1a-479d-9676-3c7b1008880a](https://user-images.githubusercontent.com/38590809/93704901-d5ce3980-fadd-11ea-8247-31ec12180579.jpg)
 
+-Una vez que ya tenemos configura la parte de nuestro código desplegamos la aplicación y vemos los resultados del login y de las consultas de películas y la información que nos brinda la API
+
+![interfaz1](https://user-images.githubusercontent.com/38590809/93704934-55f49f00-fade-11ea-9583-79113193fe63.png)
+
+
+![interfaz2](https://user-images.githubusercontent.com/38590809/93704945-7f152f80-fade-11ea-9e28-dca837f48fa7.png)
+
+
 -En la siguiente imágen vemos el registro de la consulta de las películas que vamos obteniendo ya sea como usuario administrador
 o simplemente usuario, nos llega todo el registro de la PI con la cual estamos trabajando.
 
